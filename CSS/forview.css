@@ -1,0 +1,14 @@
+.view{
+	top:70%;
+}
+.view input{
+	
+	width: 90%;
+	margin-bottom:20px;
+}
+.view input[type="submit"]:hover
+{
+	cursor:pointer;
+	background:#ffc107;
+	color:#000;
+}
